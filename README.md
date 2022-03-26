@@ -1,0 +1,1 @@
+componente de codigo qr creado a partir de la base de FrontendMentor.
